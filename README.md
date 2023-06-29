@@ -1,7 +1,7 @@
 # laba1.2
 Slastyonov Andrey, ITS-b-o-22-1, crossplatfom programming 
 
-def print_hello():
-    print("Hello, world!")
+def print_name(name):
+    print("Hello,", name)
 
-print_hello()
+print_name("John")
